@@ -20,7 +20,7 @@ function App() {
         <div>
           <SocialMedia/>  
           <p/>
-          <a href='http://107.22.74.201:3000/d/d191e021-ff40-48ee-8795-2e16cffc2c07/helge-dashboard?orgId=1'>
+          <a href='http://107.22.74.201:3000'>
             <Startbtn>
               START
             </Startbtn>
